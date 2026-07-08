@@ -41,13 +41,13 @@ A modern and responsive **Paste Management Application** built with **React**, *
 Clone the repository
 
 ```bash
-git clone https://github.com/sabirkhandev/paste-app.git
+git clone https://github.com/sabirkhandev/Paste-App.git
 ```
 
 Go to the project directory
 
 ```bash
-cd paste-app
+cd Paste-App
 ```
 
 Install dependencies
